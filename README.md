@@ -2,7 +2,7 @@
 Takes a CSV list of domains and outputs an identical CSV with HTTP status codes in column B.
 
 ## Required arguments
-**-i, --input** | The file for the program to use
+**-i, --input** | The file for the program to use  
 **-o, --output** | The destination of the output file
 
 ## Optional arguments
